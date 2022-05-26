@@ -6,4 +6,3 @@ These [Tezos](http://tezos.com) nodes are provided by the [EcoMint](http://ecomi
 |   Network     |                                Link                                 |
 |:-----------:  |:------------------------------------------------------------------: |
 |   Mainnet     | [mainnet.ecomint-nodes.com](http://mainnet.ecomint-nodes.com:8732)  |
-|  Ithacanet    | [testnet.ecomint-nodes.com](http://testnet.ecomint-nodes.com:8732)  |
